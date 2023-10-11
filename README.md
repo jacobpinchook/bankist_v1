@@ -5,4 +5,4 @@
 - Demonstrated on this project is my newfound understanding of the uses of these JavaScript features to further my abilities for future projects
 
 # Live Demo
-[Click this link to view the site](https://jacobpinchook.github.io/etch-a-sketch/)
+[Click this link to view the site](https://jacobpinchook.github.io/bankist_v1/)
